@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[#About](https://nasan92.github.io/pagestest/about)
+[About](https://nasan92.github.io/pagestest/about)
 
 You can use the [editor on GitHub](https://github.com/nasan92/pagestest/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
